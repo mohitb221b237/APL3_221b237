@@ -3,5 +3,6 @@ public class Main {
 	{
 		Voice v=new Voice();
 		v.prepareVoice();
+		v.hear();
 	}
 }
